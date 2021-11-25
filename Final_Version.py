@@ -6,6 +6,8 @@
 ######################################################################################################################
 
 
+###USE L298n motor driver for changing the speed, and direction of servo motor
+
 #Importing required libraries
 import RPi.GPIO as GPIO  
 import time
