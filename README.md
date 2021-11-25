@@ -26,6 +26,7 @@ https://user-images.githubusercontent.com/44465072/143494248-6c9d42e3-ad9c-4d0c-
 
 
 This video shows the brightness of bulb being changed when there are only 6 people or 6 faces detected 
+
 https://user-images.githubusercontent.com/44465072/143493644-ee0b907c-b9fa-4704-a3b1-8c2b866a3606.mp4
 
 
